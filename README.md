@@ -1,1 +1,2 @@
-# cs371PA2
+# CS371PA2
+# Ayah Abdeldayem, Hannah Hale, James Wong 
